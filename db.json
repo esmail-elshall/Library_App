@@ -1,0 +1,156 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic Habits",
+      "authorId": "1",
+      "authorName": "James Clear",
+      "genre": "Self-Help",
+      "year": 2018,
+      "price": 12.99,
+      "rating": 4.8,
+      "cover": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=400",
+      "description": "An extremely practical guide to breaking bad behaviors and adopting good ones in four step-by-step framework."
+    },
+    {
+      "id": "2",
+      "title": "Psychology of Money",
+      "authorId": "2",
+      "authorName": "Morgan Housel",
+      "genre": "Finance",
+      "year": 2020,
+      "price": 14.5,
+      "rating": 4.7,
+      "cover": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=400",
+      "description": "Timeless lessons on wealth, greed, and happiness doing well with money has little to do with how smart you are."
+    },
+    {
+      "id": "3",
+      "title": "Deep Work",
+      "authorId": "3",
+      "authorName": "Cal Newport",
+      "genre": "Productivity",
+      "year": 2016,
+      "price": 15,
+      "rating": 4.6,
+      "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400",
+      "description": "Rules for focused success in a distracted world, helping you master complex information quickly."
+    },
+    {
+      "id": "4",
+      "title": "Project Hail Mary",
+      "authorId": "4",
+      "authorName": "Andy Weir",
+      "genre": "Sci-Fi",
+      "year": 2021,
+      "price": 16.99,
+      "rating": 4.9,
+      "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400",
+      "description": "A lone astronaut must save the earth from disaster in this incredible science fiction adventure."
+    },
+    {
+      "id": "5",
+      "title": "Klara and the Sun",
+      "authorId": "5",
+      "authorName": "Kazuo Ishiguro",
+      "genre": "Fiction",
+      "year": 2021,
+      "price": 13.5,
+      "rating": 4.3,
+      "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400",
+      "description": "A thrilling novel that looks at our rapidly changing modern world through the eyes of an unforgettable narrator."
+    },
+    {
+      "id": "6",
+      "title": "The Midnight Library",
+      "authorId": "6",
+      "authorName": "Matt Haig",
+      "genre": "Fantasy",
+      "year": 2020,
+      "price": 11.99,
+      "rating": 4.5,
+      "cover": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400",
+      "description": "Between life and death there is a library, and within that library, the shelves go on forever."
+    },
+    {
+      "id": "7",
+      "title": "Four Thousand Weeks",
+      "authorId": "3",
+      "authorName": "Cal Newport",
+      "genre": "Philosophy",
+      "year": 2021,
+      "price": 14,
+      "rating": 4.4,
+      "cover": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=400",
+      "description": "Time Management for Mortals — an uplifting, pragmatic guide to constructing a meaningful life."
+    },
+    {
+      "id": "8",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "authorId": "5",
+      "authorName": "Kazuo Ishiguro",
+      "genre": "Fiction",
+      "year": 2022,
+      "price": 15.5,
+      "rating": 4.6,
+      "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400",
+      "description": "A dazzling and intricately woven story about creativity, friendship, identity, and video game design."
+    },
+    {
+      "id": "9",
+      "title": "System Design Interview",
+      "authorId": "1",
+      "authorName": "James Clear",
+      "genre": "Technology",
+      "year": 2020,
+      "price": 25,
+      "rating": 4.9,
+      "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400",
+      "description": "An insider's guide to passing system design interviews in top technology companies."
+    },
+    {
+      "id": "10",
+      "title": "Stolen Focus",
+      "authorId": "6",
+      "authorName": "Matt Haig",
+      "genre": "Non-Fiction",
+      "year": 2022,
+      "price": 13,
+      "rating": 4.5,
+      "cover": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=400",
+      "description": "Why you can't pay attention — and how to think deeply again in the digital age."
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "James Clear",
+      "bio": "Author and speaker focused on habits, decision making, and continuous improvement."
+    },
+    {
+      "id": "2",
+      "name": "Morgan Housel",
+      "bio": "Partner at Collaborative Fund and former columnist at The Wall Street Journal."
+    },
+    {
+      "id": "3",
+      "name": "Cal Newport",
+      "bio": "Computer science professor at Georgetown University and author of digital minimalism books."
+    },
+    {
+      "id": "4",
+      "name": "Andy Weir",
+      "bio": "Former software engineer who became a bestselling science fiction novelist."
+    },
+    {
+      "id": "5",
+      "name": "Kazuo Ishiguro",
+      "bio": "Nobel Prize-winning British novelist, screenwriter, and short-story writer."
+    },
+    {
+      "id": "6",
+      "name": "Matt Haig",
+      "bio": "English author and journalist known for non-fiction and speculative fiction."
+    }
+  ]
+}
